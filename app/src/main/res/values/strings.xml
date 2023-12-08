@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Self-Care Reminder</string>
+    <string name="front_start">Get Started</string>
+    <string name="homepage_Skinbttn">SKIN CARE PROCEDURE</string>
+    <string name="homepage_AlarmBttn">SET UP ALARM</string>
+    <string name="moto_front">"Love the skin you're in, nourish it daily for a radiant glow that lasts a lifetime."</string>
+</resources>
